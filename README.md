@@ -5,7 +5,7 @@ I'm a passionate Front End Developer from West Africa, Nigeria.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [officiallyomoniyi@gmail.com](mailto:officiallyomoniyi@gmail.com)
-* 🚀  I'm currently working on [Piggvest dashboard](http://niyipiggyvestdashboard.netlify.app/)
+* 🚀  I'm currently working on [Exclusive](http://exclusivestore.vercel.app/)
 * 🧠  I'm learning I’m currently learning more of React-Typescript, Redux, Firebase
 * 🤝  I'm open to collaborating on I’m looking to collaborate on Junior Developer roles or Partnership with other developers like me
 * ⚡  I like to Watch Movies, Tv shows
